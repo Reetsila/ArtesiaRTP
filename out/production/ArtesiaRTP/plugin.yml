@@ -1,0 +1,7 @@
+name: ArtesiaRTP
+author: Reetsila
+version: 1.0.0
+main: fr.reetsila.artesiartp.Main
+commands:
+  rtp:
+    description: Téléporte de façon aléatoire un joueur !
