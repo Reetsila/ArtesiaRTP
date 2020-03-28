@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -47,6 +50,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1585408970377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585408970377" />
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1585404297202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -59,9 +66,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="387" y="91" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585407389073" />
-    <state x="602" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1585401340533">
+    <state x="602" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1585418327115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="602" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585401340533" />
+    <state x="602" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585418327115" />
+    <state x="342" y="140" key="new project wizard" timestamp="1585421366903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585421366903" />
   </component>
 </project>

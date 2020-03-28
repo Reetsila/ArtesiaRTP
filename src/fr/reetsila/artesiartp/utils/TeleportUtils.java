@@ -31,7 +31,7 @@ public class TeleportUtils {
         int x = random.nextInt(2000);
         int z = random.nextInt(2000);
         // Hauteur
-        int y = 130;
+        int y = 160;
 
         Location randomLocation = new Location(player.getWorld(), x, y, z);
         randomLocation.setY(y);
